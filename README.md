@@ -6,7 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 
 ---
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=king143nd.profile)
+
+![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=king143nd.profile&color=blue)
+
 
 ## 🚀 **About Me**
 - 🌱 Currently exploring **Generative AI**, **LLMs**, and **Data Science pipelines**.
