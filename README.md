@@ -58,16 +58,45 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 ---
 
 ## 🌟 **Featured Projects**
-### 🛍️ [**FriendZone**](https://king143nd.pythonanywhere.com/)  
+### 📱 [**FriendZone**](https://king143nd.pythonanywhere.com/)  
 👥 **FriendZone** is a vibrant social networking platform designed to connect people, share updates, and build communities.  
 ✨ Features include:  
 - 🖼️ User profiles  
 - 🤝 Friend requests  
 - 📰 Activity feeds  
 
-🔗 **[🌍 Live Demo](https://king143nd.pythonanywhere.com/)**  
-💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**  
- 
+🔗 **[🌐 Live Demo](https://king143nd.pythonanywhere.com/)**  
+💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**   
+
+ ### 🛒 [**ApnaMarket**](https://apnamarket143.vercel.app/)  
+🛍️ **ApnaMarket** is an e-commerce platform where users can explore, shop, and manage their carts effortlessly.  
+✨ Features include:  
+- 🛒 Intuitive shopping experience  
+- 🛠️ Product management and search  
+- 💳 Secure checkout  
+
+🔗 **[🌍 Live Demo](https://apnamarket143.vercel.app/)**  
+💻 **[📂 GitHub Repository](https://github.com/KING143ND/ApnaMarket.git)**  
+
+### 🌍 [**AddaTravelling**](https://adda-travelling.vercel.app/)  
+✈️ **AddaTravelling** is a travel booking platform that makes planning trips easy and hassle-free.  
+✨ Features include:  
+- 🗺️ Destination exploration  
+- 📅 Trip scheduling  
+- 🛒 Seamless booking experience  
+
+🔗 **[🌐 Live Demo](https://adda-travelling.vercel.app/)**  
+💻 **[📂 GitHub Repository](https://github.com/KING143ND/AddaTravelling.git)**  
+
+### ✨ [**Magic-Text-Enhancer**](https://magic-text-enhancer.vercel.app/)  
+🖋️ **Magic-Text-Enhancer** is an AI-powered tool to refine and elevate your text, making it more impactful and polished.  
+✨ Features include:  
+- 🧠 AI-driven suggestions  
+- 🎨 Text styling options  
+- 🚀 Fast and user-friendly interface  
+
+🔗 **[🌐 Live Demo](https://magic-text-enhancer.vercel.app/)**  
+💻 **[📂 GitHub Repository](https://github.com/KING143ND/Magic-Text-Enhancer.git)**  
 
 ---
 
