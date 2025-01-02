@@ -103,7 +103,7 @@ JavaScript   ██████░░░░░░░░░░░░░░░░ 
 
 🎨 Fun Facts
 
-💻 I wrote my first Python program when I was 20 years old.
+💻 I wrote my first Python program when I was 18 years old.
 
 🌟 I'm always on the lookout for emerging technologies in AI and Web Development.
 
@@ -114,7 +114,7 @@ JavaScript   ██████░░░░░░░░░░░░░░░░ 
 Feel free to explore my repositories and connect with me. Let’s innovate together!
 
 
----## Hi there 👋
+---
 
 <!--
 **KING143ND/KING143ND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
