@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 </td>
 </tr>
  <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&layout=compact&border_radius=0&theme=dark" alt="king143nd" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&layout=compact&border_radius=0&theme=dark" alt="king143nd" />
 </td>
 </tr>
 </table>
