@@ -58,6 +58,15 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 ---
 
 ## 🌟 **Featured Projects**
+# 🌐 [**FriendZone**](https://king143nd.pythonanywhere.com/)  
+👥 **FriendZone** is a vibrant social networking platform designed to connect people, share updates, and build communities.  
+✨ Features include:  
+- 🖼️ User profiles  
+- 🤝 Friend requests  
+- 📰 Activity feeds  
+
+🔗 **[🌍 Live Demo](https://king143nd.pythonanywhere.com/)**  
+💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**
 - [**AI-Powered Content Generator**](https://github.com/king143nd/ai-content-generator)  
   🧠 Leveraging **OpenAI APIs** for generating posts, templates, and more.  
 
