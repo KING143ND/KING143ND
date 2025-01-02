@@ -63,12 +63,10 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&theme=radical" alt="King143nd's GitHub stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical" alt="King143nd's GitHub streak stats" />
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical](https://github.com/king143nd/github-readme-stats)" alt="King143nd's GitHub streak stats" />
 </td>
 </tr>
 </table>
-
-[![Top Langs]()](https://github.com/king143nd/github-readme-stats)
 
 ---
 
