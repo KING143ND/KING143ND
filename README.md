@@ -51,7 +51,21 @@ Tools & Platforms
 
    
 
+---
 
+📊 GitHub Stats
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=king143nd&show_icons=true&theme=radical" alt="King143nd's GitHub stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical" alt="King143nd's GitHub streak stats" />
+</td>
+</tr>
+</table>
+---
 ---
 
 📊 GitHub Stats
