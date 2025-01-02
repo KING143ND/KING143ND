@@ -59,13 +59,14 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&layout=compact&border_radius=0&theme=dark" alt="king143nd" />
 </td>
-<td style="width: 60% !important;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=king143nd&theme=radical&hide_border=true" alt="King143nd's Contribution Graph" />
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=king143nd&theme=radical&no-frame=true&column=4" alt="King143nd's GitHub Trophies" />
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## 🌟 **Featured Projects**
 ### 📱 [**FriendZone**](https://king143nd.pythonanywhere.com/)  
