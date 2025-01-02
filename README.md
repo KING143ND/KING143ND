@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 🔗 **[🌐 Live Demo](https://king143nd.pythonanywhere.com/)**  
 💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**   
 
-
+<hr>
  ### 🛒 [**ApnaMarket**](https://apnamarket143.vercel.app/)  
 🛍️ **ApnaMarket** is an e-commerce platform where users can explore, shop, and manage their carts effortlessly.  
 ✨ Features include:  
@@ -90,7 +90,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 🔗 **[🌍 Live Demo](https://apnamarket143.vercel.app/)**  
 💻 **[📂 GitHub Repository](https://github.com/KING143ND/ApnaMarket.git)**  
 
-
+<hr>
 ### 🌍 [**AddaTravelling**](https://adda-travelling.vercel.app/)  
 ✈️ **AddaTravelling** is a travel booking platform that makes planning trips easy and hassle-free.  
 ✨ Features include:  
@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 🔗 **[🌐 Live Demo](https://adda-travelling.vercel.app/)**  
 💻 **[📂 GitHub Repository](https://github.com/KING143ND/AddaTravelling.git)**  
 
-
+<hr>
 ### ✨ [**Magic-Text-Enhancer**](https://magic-text-enhancer.vercel.app/)  
 🖋️ **Magic-Text-Enhancer** is an AI-powered tool to refine and elevate your text, making it more impactful and polished.  
 ✨ Features include:  
