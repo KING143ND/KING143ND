@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 ---
 
 
-## 👀 **About Me**
+## 👀 **Profile Views**
 <p align="left"> <img src="https://profile-counter.glitch.me/king143nd/count.svg" alt="king143nd" /> </p>
 
 ## 🚀 **About Me**
