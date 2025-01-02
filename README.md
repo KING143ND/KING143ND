@@ -58,7 +58,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 ---
 
 ## 🌟 **Featured Projects**
-# 🌐 [**FriendZone**](https://king143nd.pythonanywhere.com/)  
+### 🛍️ [**FriendZone**](https://king143nd.pythonanywhere.com/)  
 👥 **FriendZone** is a vibrant social networking platform designed to connect people, share updates, and build communities.  
 ✨ Features include:  
 - 🖼️ User profiles  
@@ -66,15 +66,8 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 - 📰 Activity feeds  
 
 🔗 **[🌍 Live Demo](https://king143nd.pythonanywhere.com/)**  
-💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**
-- [**AI-Powered Content Generator**](https://github.com/king143nd/ai-content-generator)  
-  🧠 Leveraging **OpenAI APIs** for generating posts, templates, and more.  
-
-- [**E-Commerce Platform**](https://github.com/king143nd/ecommerce-django)  
-  🛒 Fully-featured **Django-based e-commerce solution** with Stripe integration.  
-
-- [**Gas Utility Management System**](https://github.com/king143nd/gas-utility-system)  
-  💡 A utility management tool built for gas service companies using **Django and DRF**.  
+💻 **[📂 GitHub Repository](https://github.com/KING143ND/FriendZone)**  
+ 
 
 ---
 
