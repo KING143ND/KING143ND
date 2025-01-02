@@ -51,6 +51,11 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical" alt="King143nd's GitHub streak stats" />
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&layout=compact&border_radius=0&theme=dark" alt="king143nd" />
 </td>
