@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 ---
 
 
-![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=king143nd.profile&color=blue)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fking143nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)
 
 
 ## 🚀 **About Me**
