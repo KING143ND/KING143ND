@@ -56,6 +56,7 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 </td>
 </tr>
 </table>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&hide=java,html,css&theme=radical)](https://github.com/king143nd/github-readme-stats)
 
 ---
