@@ -65,21 +65,9 @@ Tools & Platforms
 </td>
 </tr>
 </table>
----
----
 
-📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=naveen-chaudhary&show_icons=true&theme=radical" alt="Naveen's GitHub stats" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-chaudhary&theme=radical" alt="Naveen's GitHub streak stats" />
-</td>
-</tr>
-</table>
+
 ---
 
 🌟 Featured Projects
