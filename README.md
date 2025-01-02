@@ -60,13 +60,22 @@ Welcome to my GitHub profile! I'm a passionate developer working with **Python**
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&theme=radical" alt="King143nd's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=king143nd&show_icons=true&theme=radical" alt="King143nd's GitHub stats" />
 </td>
 <td>
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical](https://github.com/king143nd/github-readme-stats)" alt="King143nd's GitHub streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=king143nd&theme=radical" alt="King143nd's GitHub streak stats" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king143nd&theme=radical" alt="King143nd's Top Languages" />
+</td>
+<td>
+<img src="https://activity-graph.herokuapp.com/graph?username=king143nd&theme=radical" alt="King143nd's Contribution Graph" />
 </td>
 </tr>
 </table>
+
 
 ---
 
